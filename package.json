@@ -1,8 +1,8 @@
 {
-  "name": "com.marijnzwemmer.unity-toolbar-extender",
+  "name": "com.mokagames.unity.unity-toolbar-extender",
   "version": "1.4.2",
   "displayName": "Toolbar Extender",
-  "description": "Extend the Unity Toolbar with your own Editor UI code.",
+  "description": "Extend the Unity Toolbar with your own Editor UI code.\nMoka Games Mirror",
   "unity": "2021.1",
   "dependencies": {},
   "keywords": [
@@ -15,7 +15,7 @@
   "author": {
     "name": "Marijn Zwemmer",
     "email": "marijn@marijnzwemmer.com",
-    "url": "https://github.com/marijnz/unity-toolbar-extender"
+    "url": "https://github.com/MokaGames/unity-toolbar-extender"
   },
   "samples": [
     {
